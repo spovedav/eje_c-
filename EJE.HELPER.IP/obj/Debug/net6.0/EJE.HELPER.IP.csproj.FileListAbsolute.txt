@@ -1,0 +1,15 @@
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.HELPER.IP\bin\Debug\net6.0\EJE.HELPER.IP.exe
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.HELPER.IP\bin\Debug\net6.0\EJE.HELPER.IP.deps.json
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.HELPER.IP\bin\Debug\net6.0\EJE.HELPER.IP.runtimeconfig.json
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.HELPER.IP\bin\Debug\net6.0\EJE.HELPER.IP.dll
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.HELPER.IP\bin\Debug\net6.0\EJE.HELPER.IP.pdb
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.HELPER.IP\obj\Debug\net6.0\EJE.HELPER.IP.csproj.AssemblyReference.cache
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.HELPER.IP\obj\Debug\net6.0\EJE.HELPER.IP.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.HELPER.IP\obj\Debug\net6.0\EJE.HELPER.IP.AssemblyInfoInputs.cache
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.HELPER.IP\obj\Debug\net6.0\EJE.HELPER.IP.AssemblyInfo.cs
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.HELPER.IP\obj\Debug\net6.0\EJE.HELPER.IP.csproj.CoreCompileInputs.cache
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.HELPER.IP\obj\Debug\net6.0\EJE.HELPER.IP.dll
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.HELPER.IP\obj\Debug\net6.0\refint\EJE.HELPER.IP.dll
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.HELPER.IP\obj\Debug\net6.0\EJE.HELPER.IP.pdb
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.HELPER.IP\obj\Debug\net6.0\EJE.HELPER.IP.genruntimeconfig.cache
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.HELPER.IP\obj\Debug\net6.0\ref\EJE.HELPER.IP.dll

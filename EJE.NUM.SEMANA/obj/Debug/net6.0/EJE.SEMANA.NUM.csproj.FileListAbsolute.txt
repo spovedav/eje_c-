@@ -1,0 +1,15 @@
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.NUM.SEMANA\bin\Debug\net6.0\EJE.SEMANA.NUM.exe
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.NUM.SEMANA\bin\Debug\net6.0\EJE.SEMANA.NUM.deps.json
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.NUM.SEMANA\bin\Debug\net6.0\EJE.SEMANA.NUM.runtimeconfig.json
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.NUM.SEMANA\bin\Debug\net6.0\EJE.SEMANA.NUM.dll
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.NUM.SEMANA\bin\Debug\net6.0\EJE.SEMANA.NUM.pdb
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.NUM.SEMANA\obj\Debug\net6.0\EJE.SEMANA.NUM.csproj.AssemblyReference.cache
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.NUM.SEMANA\obj\Debug\net6.0\EJE.SEMANA.NUM.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.NUM.SEMANA\obj\Debug\net6.0\EJE.SEMANA.NUM.AssemblyInfoInputs.cache
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.NUM.SEMANA\obj\Debug\net6.0\EJE.SEMANA.NUM.AssemblyInfo.cs
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.NUM.SEMANA\obj\Debug\net6.0\EJE.SEMANA.NUM.csproj.CoreCompileInputs.cache
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.NUM.SEMANA\obj\Debug\net6.0\EJE.SEMANA.NUM.dll
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.NUM.SEMANA\obj\Debug\net6.0\refint\EJE.SEMANA.NUM.dll
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.NUM.SEMANA\obj\Debug\net6.0\EJE.SEMANA.NUM.pdb
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.NUM.SEMANA\obj\Debug\net6.0\EJE.SEMANA.NUM.genruntimeconfig.cache
+C:\repos\PRUEBA\SISTREMA.PRUEBA.01\CO\ConsoleApp1\EJE.NUM.SEMANA\obj\Debug\net6.0\ref\EJE.SEMANA.NUM.dll
